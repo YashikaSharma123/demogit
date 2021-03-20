@@ -1,6 +1,7 @@
 #ignore .classpath,.project,*.jar
 .classpath
 .project
+.sql
 *.jar
 /bin/
 !lib.jar
